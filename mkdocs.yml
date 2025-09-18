@@ -1,13 +1,13 @@
 site_name: Jogo Digital - Grupo 1
-site_url: https://github.com/UnBArqDsw2025-2-Turma01/2025.2-T01-G1_JogoDigital_Entrega_02
+site_url: https://unbarqdsw2025-2-turma01.github.io/2025.2-T01-G1_JogoDigital_Entrega_02/
 
-repo_url: https://github.com/UnBArqDsw2025-2-Turma01/2025.2-T01-G1_JogoDigital_Entrega_02
+repo_url: https://unbarqdsw2025-2-turma01.github.io/2025.2-T01-G1_JogoDigital_Entrega_02/
 repo_name: GitHub
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/UnBArqDsw2025-2-Turma01/2025.2-T01-G1_JogoDigital_Entrega_02
+      link: https://unbarqdsw2025-2-turma01.github.io/2025.2-T01-G1_JogoDigital_Entrega_02/
 
 theme:
   name: material
