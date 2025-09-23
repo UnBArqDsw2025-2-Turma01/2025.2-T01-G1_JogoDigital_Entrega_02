@@ -2,8 +2,8 @@
 
 
 **Data:** 20/09  
-**Hora:** 20h00 
-**Local:** Discord
+ **Hora:** 20h00 
+ **Local:** Discord
 
 **Membros Presentes:**  
 Caio Duarte, Enzo Emir, Laryssa Félix, Leticia Arisa, Marcelo Makoto, Maria Eduarda, Victor Pontual, Rafael Welz.
