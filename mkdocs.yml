@@ -5,43 +5,44 @@ repo_url: https://unbarqdsw2025-2-turma01.github.io/2025.2-T01-G1_JogoDigital_En
 repo_name: GitHub
 
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://unbarqdsw2025-2-turma01.github.io/2025.2-T01-G1_JogoDigital_Entrega_02/
+ social:
+   - icon: fontawesome/brands/github
+     link: https://unbarqdsw2025-2-turma01.github.io/2025.2-T01-G1_JogoDigital_Entrega_02/
 
 theme:
-  name: material
-  palette:
+ name: material
+ logo: assets/logo/logo.png
+ palette:
 
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
+   # Palette toggle for automatic mode
+   - media: "(prefers-color-scheme)"
+     toggle:
+       icon: material/brightness-auto
+       name: Switch to light mode
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default 
-      primary: deep purple    
-      accent: pink        
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+   # Palette toggle for light mode
+   - media: "(prefers-color-scheme: light)"
+     scheme: default 
+     primary: green
+     accent: pink 
+     toggle:
+       icon: material/brightness-7
+       name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep purple
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
+   # Palette toggle for dark mode
+   - media: "(prefers-color-scheme: dark)"
+     scheme: slate
+     primary: green
+     toggle:
+       icon: material/brightness-4
+       name: Switch to system preference
 
-  features:
-    - navigation.tabs
-    - content.code.copy
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.top
+ features:
+   - navigation.tabs
+   - content.code.copy
+   - navigation.instant
+   - navigation.instant.progress
+   - navigation.top
 
 nav:
   - Apresentação: README.md
