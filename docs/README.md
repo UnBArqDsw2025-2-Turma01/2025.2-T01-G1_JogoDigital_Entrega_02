@@ -42,7 +42,8 @@ A organização do projeto foi feita de forma colaborativa, onde os integrantes 
 
 #### FOCO 3 - Caso de Uso
 
-
+![Caso de Uso](assets/Organizacional/Diagrama_CasosdeUso.svg)
+<font size="2"><p style="text-align: center">Fonte: Enzo Emir, Laryssa Felix, Leticia Arisa, Marcelo Makoto, Victor Pontual, Rafael Welz, 2025.</p></font>
 
 ## Há algo a ser executado?
 
