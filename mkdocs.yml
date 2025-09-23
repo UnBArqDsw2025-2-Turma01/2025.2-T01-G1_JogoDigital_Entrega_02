@@ -45,7 +45,11 @@ theme:
 
 nav:
   - Apresentação: README.md
-  - Projeto: Projeto/Projeto.md
+  - Atas Reunião:
+    - Entrega 02: 
+        Atas/Ata I.md
+        Atas/Ata II.md
+        Atas/Ata III.md
   - 2. Desenho de Software (Modelagem):
       - 2. Modelagem Geral: Modelagem/2.Modelagem.md
       - 2.1. Modelagem UML Estática: Modelagem/2.1.ModelagemEstatica.md
