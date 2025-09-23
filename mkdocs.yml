@@ -48,9 +48,9 @@ nav:
   - Apresentação: README.md
   - Atas Reunião:
     - Entrega 02: 
-      - Ata I: docs/Atas/Entrega 02/Ata I.md 
-      - Ata II: docs/Atas/Entrega 02/Ata II.md
-      - Ata III: docs/Atas/Entrega 02/Ata III.md
+      - Ata I: Atas/Entrega 02/Ata I.md 
+      - Ata II: Atas/Entrega 02/Ata II.md
+      - Ata III: Atas/Entrega 02/Ata III.md
   - 2. Desenho de Software (Modelagem):
       - 2. Modelagem Geral: Modelagem/2.Modelagem.md
       - 2.1. Modelagem UML Estática: Modelagem/2.1.ModelagemEstatica.md
