@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
  - [Home](README.md)
- - [Projetos](Projeto/Projeto.md)
 
  - **Modelagem**
    - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
